@@ -4,4 +4,4 @@ This section explains the project in more detail.
 '''
 
 
-from minimal import add
+from minimal import *
