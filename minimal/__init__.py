@@ -3,5 +3,7 @@
 This section explains the project in more detail.
 '''
 
-
-from minimal import *
+# This would move to a separate file as the project grows
+def add(x, y):
+    '''Adds x and y.'''
+    return x + y
