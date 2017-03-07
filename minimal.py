@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-'''Minimal Python package.
+'''Minimal Python package.  
 
 Contains one function which adds its two parameters.
 '''
