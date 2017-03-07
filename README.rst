@@ -1,3 +1,7 @@
-# Minimal: A minimal Python package.
+Minimal: A minimal Python package.
+==================================
 
-Extended description goes here.
+This is the README file for the project.
+
+The file should use UTF-8 encoding and be written using `reStructuredText
+<http://docutils.sourceforge.net/rst.html>`_.
